@@ -2,6 +2,8 @@
 
 - 🔭 Estudante no ProgBR
 - 🌱 Atualmente Estou Estudando **HTML5 | CSS3 | JavaScript | Node.Js | TypeScript**
+- See my LinkedIn: [Erick Yan](https://www.linkedin.com/in/erick-yan-carvalho-b2aa5b226/)
+
 
 <div>
   <a href="https://github.com/deverickbr">
@@ -16,5 +18,8 @@
   <img align="center" alt="Erick-types" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Erick-mddb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="Erick-mddb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
 </div>
+  
+  <ul>
+    <li>Linkedin</li> 
+  </ul>
