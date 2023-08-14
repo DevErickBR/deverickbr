@@ -1,6 +1,6 @@
 ## Hi there , I'am Erick 👋 
 
-- 🔭 Studenting ProgBR
+- 🔭 Studenting Front-end and Back-end
 - 👨‍💻 Studying Software Engineering
 - 🌱 I'm currently studying **HTML5 | CSS3 | JavaScript | Node.Js | TypeScript**
 - See my LinkedIn: [Erick Yan](https://www.linkedin.com/in/erick-yan-carvalho-b2aa5b226/)
