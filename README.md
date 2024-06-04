@@ -1,8 +1,9 @@
 ## Hi there , I'am Erick 👋 
 
-- 🔭 Studenting Front-end and Back-end
-- 👨‍💻 Studying Software Engineering
-- 🌱 I'm currently studying **HTML5 | CSS3 | JavaScript | Node.Js | TypeScript**
+- 🔭 Estudando mais sobre Front-end & Back-end & Infraestrutura & criptografia
+- 👨‍💻 Se especializando em *Ciencias da computação*
+- 🌱 Atualmente estou utilizando as seguintes Stacks para meus projetos! **REACT.js | NEXT.js 14 | TypeScript | SQLSERVER | SEQUELIZE | EXPRESS |Node.Js**
+- 👨‍💻 Pesquisando Sobre: **Virtualização, Proteção de Redes, SQL SERVER, OTIMIZAÇÃO, SOLID**
 - See my LinkedIn: [Erick Yan](https://www.linkedin.com/in/erick-yan-carvalho-b2aa5b226/)
 
 
