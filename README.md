@@ -2,8 +2,8 @@
 
 - 🔭 Estudando mais sobre Front-end & Back-end & Infraestrutura & criptografia
 - 👨‍💻 Se especializando em *Ciencias da computação*
-- 🌱 Atualmente estou utilizando as seguintes Stacks para meus projetos! **REACT.js | NEXT.js 14 | TypeScript | SQLSERVER | SEQUELIZE | EXPRESS |Node.Js**
-- 👨‍💻 Pesquisando Sobre: **Virtualização, Proteção de Redes, SQL SERVER, OTIMIZAÇÃO, SOLID**
+- 🌱 Atualmente estou utilizando as seguintes Stacks para meus projetos! **REACT.js | NEXT.js 14 | TypeScript | SQLSERVER | SEQUELIZE | EXPRESS | Node.Js**
+- 👨‍💻 Pesquisando Sobre: **Virtualização, Proteção de Redes, SQL SERVER, OTIMIZAÇÃO, SOLID, POO**
 - See my LinkedIn: [Erick Yan](https://www.linkedin.com/in/erick-yan-carvalho-b2aa5b226/)
 
 
